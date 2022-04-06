@@ -1,0 +1,2 @@
+Burdaki amacım korana virüsün gelecek tahminin söyleyen bir model eğitip ve skor almak kullandığım şey XGBRegressor
+Algoritmasıdır  başarılı bir şekilde skor alıyor
